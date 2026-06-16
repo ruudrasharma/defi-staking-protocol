@@ -1,4 +1,4 @@
-# MasterChef
+#
 
 This repository contains the modified core smart contracts for the SushiSwap V2 Protocol.
 
